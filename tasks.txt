@@ -1,0 +1,20 @@
+JR PENTEST
+
+1. ** mostafa fikry** - Introduction to Cyber Security
+2. *mahmoud mustafa* - Introduction to Pentesting, Metasploit
+3. *mohamed ali* - Introduction to Web Hacking
+4. *loubna mostafa* - Privilege Escalation
+5. *mustafa gabr* - Burp Suite , Network Security
+6. *sally abd-el-aziz* - Vulnerability Research
+
+
+
+RED TEAMING
+
+
+1. ** mostafa fikry** - Iitial access
+2. *mahmoud mustafa* - Post and evasion
+3. *mohamed ali* - Post and evasion
+4. *loubna mostafa* - Red-Teaming Fundmental
+5. *mustafa gabr* - A-D
+6. *sally abd-el-aziz* - Network evasion
